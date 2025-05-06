@@ -1,0 +1,8 @@
+cd  tag (Ir A Carpeta)
+ls (Ver Contenido)
+cd .. (Retroceder)
+
+Recuerda:
+	git status
+	git add .
+	git commit -m "Nota Aqui"
